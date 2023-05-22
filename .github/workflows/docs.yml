@@ -33,6 +33,10 @@ jobs:
           # 缓存 pnpm 依赖
           cache: pnpm
 
+      # 额外装一下vue-template-compiler
+      - name: Install vue-template-compiler
+        run: pnpm install vue-template-compiler
+
       # 运行构建脚本
       - name: Build VuePress site
         run: pnpm docs:build
