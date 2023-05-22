@@ -7,7 +7,7 @@ module.exports = {
         sidebarDepth: 3,
         logo: 'https://excalidraw.com/apple-touch-icon.png',
         nav: [
-            { text: '首页', link: '/' },
+            { text: '首页', link: './' },
             { text: '关于', link: 'https://u1s1.vip/about' },
             { text: '友链', link: 'https://u1s1.vip' },
             {
