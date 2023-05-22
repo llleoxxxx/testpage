@@ -1,5 +1,5 @@
 module.exports = {
     base:'./testpage/',
-    title: '1112312312',
+    title: 'fdasf',
     description: '地方打发',
 }
