@@ -1,5 +1,4 @@
 {
-  "base": "/eee/",
   "name": "vuepress-starter",
   "version": "1.0.0",
   "main": "index.js",
